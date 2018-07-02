@@ -1,4 +1,4 @@
-Amenah Fairouz Abdulkarim
+﻿Amenah Fairouz Abdulkarim
 Anthony T. Quickel
 Christian Mauder
 Konrad Hirschler
@@ -15,6 +15,6 @@ Víctor De Castro León
 Vincent Chen
 Kenneth Goudie
 Zacharie de Pierrepont
-Mohamed Maslouh
+Mohamed Maslouh, Gent University
 Maya Termonia
 Maxim Romanov
